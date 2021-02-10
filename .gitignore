@@ -40,3 +40,6 @@ Content/Speech/Level/ConferenceHall_BuiltData.uasset
 Content/bus/Level/BusLevel_City01_BuiltData.uasset
 Content/bus/Level/BusLevel_City02_BuiltData.uasset
 Content/shinkansen/Level/ShinkansenLevel_Master_BuiltData.uasset
+Content/bus/Level/BusLevel_Master_BuiltData.uasset
+Content/bus/Level/BusLevel_Mountain_BuiltData.uasset
+Content/bus/Level/BusLevel_Suburb_BuiltData.uasset
